@@ -1,0 +1,13 @@
+{
+    "name": "selfagency/acf-field-phonenumber",
+    "description": "Composer support for hcmedia/acf-field-phonenumber",
+    "type": "project",
+    "license": "GPLv2 or later",
+    "authors": [
+        {
+            "name": "Daniel Sieradski",
+            "email": "daniel@self.agency"
+        }
+    ],
+    "require": {}
+}

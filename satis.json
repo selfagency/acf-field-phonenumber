@@ -1,0 +1,8 @@
+{
+  "name": "selfagency/acf-field-phonenumber",
+  "homepage": "https://github.com/selfagency/acf-field-phonenumber",
+  "repositories": [
+    { "type": "vcs", "url": "https://github.com/selfagency/acf-field-phonenumber" }
+  ],
+  "require-all": true
+}
