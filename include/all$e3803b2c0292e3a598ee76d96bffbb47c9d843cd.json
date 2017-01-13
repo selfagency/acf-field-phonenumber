@@ -1,0 +1,37 @@
+{
+    "packages": {
+        "selfagency/acf-field-phonenumber": {
+            "dev-master": {
+                "name": "selfagency/acf-field-phonenumber",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/selfagency/acf-field-phonenumber.git",
+                    "reference": "e502fca5f44fa6052bf2b43773364c90399a0f05"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/selfagency/acf-field-phonenumber/zipball/e502fca5f44fa6052bf2b43773364c90399a0f05",
+                    "reference": "e502fca5f44fa6052bf2b43773364c90399a0f05",
+                    "shasum": ""
+                },
+                "time": "2017-01-13 03:17:40",
+                "type": "project",
+                "license": [
+                    "GPLv2 or later"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Sieradski",
+                        "email": "daniel@self.agency"
+                    }
+                ],
+                "description": "Composer support for hcmedia/acf-field-phonenumber",
+                "support": {
+                    "source": "https://github.com/selfagency/acf-field-phonenumber/tree/master"
+                }
+            }
+        }
+    }
+}
